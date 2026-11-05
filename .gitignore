@@ -1,0 +1,21 @@
+# Python sanal ortamı (virtual environment)
+venv/
+env/
+.venv/
+
+# Python derleme ve önbellek dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook kontrol noktaları
+.ipynb_checkpoints/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE ve Editör ayarları
+.vscode/
+.idea/
+
